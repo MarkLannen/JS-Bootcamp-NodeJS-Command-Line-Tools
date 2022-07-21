@@ -1,0 +1,23 @@
+{
+  "name": "js-bootcamp-nodejs-command-line-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkLannen/JS-Bootcamp-NodeJS-Command-Line-Tools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "nls": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/MarkLannen/JS-Bootcamp-NodeJS-Command-Line-Tools/issues"
+  },
+  "homepage": "https://github.com/MarkLannen/JS-Bootcamp-NodeJS-Command-Line-Tools#readme"
+}
