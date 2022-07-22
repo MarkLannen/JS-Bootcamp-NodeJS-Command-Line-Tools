@@ -1,4 +1,6 @@
+
 {
+  "type": "module",
   "name": "js-bootcamp-nodejs-command-line-tools",
   "version": "1.0.0",
   "description": "",
@@ -19,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/MarkLannen/JS-Bootcamp-NodeJS-Command-Line-Tools/issues"
   },
-  "homepage": "https://github.com/MarkLannen/JS-Bootcamp-NodeJS-Command-Line-Tools#readme"
+  "homepage": "https://github.com/MarkLannen/JS-Bootcamp-NodeJS-Command-Line-Tools#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
 }
